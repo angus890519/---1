@@ -1,4 +1,3 @@
-# ---1
 基本練習作業-作業1
 #include <stdio.h> //函示庫
 #include <stdlib.h> //函示庫
